@@ -1,15 +1,26 @@
-# Hi there! 👋 I'm Monisha Singh  
-## A passionate full-stack developer & tech enthusiast
+<h1>Hi there! 👋 I'm Monisha Singh</h1>  
+<h2>A passionate full-stack developer & tech enthusiast</h2>
 
----
 
-## 👩‍💻 About Me
-
-- 👩‍💻 I'm a **PERN Stack Developer**
-- 🎓 I'm currently pursuing **B.Tech in CSE from MSIT,Janakpuri**  
-- 🎮 I can build basic **2D games** just for fun
-- 🔭 I’m working on a **Task Manager Web App** with advanced features
-- 🎨 Fun Fact: I love painting & have deep interest in astronomy 🌌  
+<table>
+  <tr>
+    <td width="60%">
+      <h2>👩‍💻 About Me</h2>
+      <p>
+        <ul>
+          <li>👩‍💻 I'm a <b>PERN Stack Developer</b></li>
+          <li>🎓 I'm currently pursuing <b>B.Tech in CSE from MSIT,Janakpuri</b></li>
+          <li>🎮 I can build basic <b>2D games</b> just for fun</li>
+          <li>🔭 I’m working on a <b>Task Manager Web App</b> with advanced features</li>
+          <li>🎨 Fun Fact: I love painting & have deep interest in astronomy 🌌</li>
+        </ul>
+      </p>
+    </td>
+    <td width="40%">
+       <img src="./GIF for github (black background).gif" alt="Programmer writing code" width="500" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -37,11 +48,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monalisa-singh&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect with me
 
