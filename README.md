@@ -40,6 +40,18 @@
 
 ---
 
+## 🔬 Research & Scientific Computing
+
+Areas of study and research:
+
+* Data Acquisition Systems (DAQ)
+* Beam Position Monitoring (BPM) Techniques
+* Drift Tube Linac (DTL) Accelerator Systems
+* Machine Learning for Accelerator Parameter Prediction
+* Scientific Computing and Experimental Data Analysis
+
+---
+
 ## 📫 Connect
 
 <p align="center">
