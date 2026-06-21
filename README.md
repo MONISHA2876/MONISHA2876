@@ -31,6 +31,12 @@
 
 ---
 
+## 🎯 Current Goal
+
+Bridging software engineering and scientific research by developing machine learning solutions for particle accelerators and large-scale data acquisition systems.
+
+---
+
 ## 🛠️ Tech Stack
 
 <p>
