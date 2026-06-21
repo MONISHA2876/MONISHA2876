@@ -1,20 +1,20 @@
 <h1>Hi, I'm Monisha Singh 👋</h1>
-<h3>Software Developer • Building Real-World Products</h3>
+<h3>Software Developer • Machine Learning • Research Intern</h3>
 
 <table>
   <tr>
     <td width="60%">
       <h3>👩‍💻 About Me</h3>
       <ul>
-        <li>Software developer with a strong focus on building practical, user-centric applications</li>
-        <li>Primary experience in <b>JavaScript, Python, and the PERN stack</b></li>
-        <li>Experience taking projects from idea to implementation with attention to performance and usability</li>
-        <li>Currently expanding skills across <b>app development, DevOps fundamentals, and emerging technologies</b></li>
-        <li>Enjoys combining engineering with creativity through design, visual arts, and interactive experiences</li>
+        <li>Full Stack Developer focused on building practical, scalable, and user-centric applications</li>
+        <li>Strong experience with <b>JavaScript, Python, React, Node.js, PostgreSQL, and MongoDB</b></li>
+        <li>Experience developing projects from concept to deployment with emphasis on performance, usability, and clean code</li>
+        <li>Currently working on <b>Machine Learning and Data Acquisition Systems</b> for particle accelerator research at IUAC</li>
+        <li>Continuously expanding skills across <b>AI/ML, Flutter, DevOps, and emerging technologies</b></li>
       </ul>
-    </td>
-    <td width="40%">
-      <img src="./GIF for github (black background).gif" alt="Coding in progress" width="480" />
+     </td>
+        <td width="40%">
+        <img src="./GIF for github (black background).gif" alt="Coding in progress" width="480" />
     </td>
   </tr>
 </table>
@@ -23,10 +23,11 @@
 
 ### 🧠 Currently Exploring
 
-- Flutter for cross-platform app development  
-- Web3 fundamentals (Solidity, smart contracts)  
-- Docker and DevOps basics  
-- Game development with Godot  
+* Machine Learning for Scientific Applications
+* Data Acquisition Systems & Accelerator Physics
+* Flutter for Cross-Platform App Development
+* Docker & DevOps Fundamentals
+* Advanced PostgreSQL & System Design
 
 ---
 
@@ -36,9 +37,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,postgres,python,flutter,reactnative,git,github,docker,solidity,godot&perline=8" />
 </p>
 
-<p>
-  <b>Also exploring:</b> Machine Learning & Deep Learning
-</p>
 
 ---
 
