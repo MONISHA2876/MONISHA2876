@@ -6,11 +6,11 @@
     <td width="60%">
       <h3>👩‍💻 About Me</h3>
       <ul>
-        <li>Full Stack Developer focused on building practical, scalable, and user-centric applications</li>
-        <li>Strong experience with <b>JavaScript, Python, React, Node.js, PostgreSQL, and MongoDB</b></li>
-        <li>Experience developing projects from concept to deployment with emphasis on performance, usability, and clean code</li>
-        <li>Currently working on <b>Machine Learning and Data Acquisition Systems</b> for particle accelerator research at IUAC</li>
-        <li>Continuously expanding skills across <b>AI/ML, Flutter, DevOps, and emerging technologies</b></li>
+        <li>Full Stack Developer building scalable and user-focused applications</li>
+        <li>Working with <b>JavaScript, Python, React, Node.js, PostgreSQL, and MongoDB</b></li>
+        <li>Building mobile apps using <b>React Native (Expo)</b></li>
+        <li>Researching <b>Machine Learning & Data Acquisition Systems</b> for particle accelerators</li>
+        <li>Exploring <b>DevOps, Scientific Computing, and Emerging Technologies</b></li>
       </ul>
      </td>
         <td width="40%">
@@ -25,7 +25,6 @@
 
 * Machine Learning for Scientific Applications
 * Data Acquisition Systems & Accelerator Physics
-* Flutter for Cross-Platform App Development
 * Docker & DevOps Fundamentals
 * Advanced PostgreSQL & System Design
 
@@ -40,7 +39,7 @@ Bridging software engineering and scientific research by developing machine lear
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,postgres,python,flutter,reactnative,git,github,docker,solidity,godot&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,postgres,mongodb,python,flutter,git,github,docker,solidity,godot&perline=8" />
 </p>
 
 
