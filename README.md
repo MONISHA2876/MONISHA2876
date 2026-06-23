@@ -38,10 +38,45 @@ Bridging software engineering and scientific research by developing machine lear
 
 ## 🛠️ Tech Stack
 
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,postgres,mongodb,python,flutter,git,github,docker,solidity,godot&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs&perline=8" />
 </p>
 
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase&perline=8" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=8" />
+</p>
+
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&perline=8" />
+</p>
+
+### Web 3
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity&perline=8" />
+</p>
+
+### Mobile & Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,godot&perline=8" />
+</p>
+
+### DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws&perline=8" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode&perline=8" />
+</p>
 
 ---
 
