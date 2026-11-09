@@ -1,20 +1,22 @@
 <h1>Hi, I'm Monisha Singh 👋</h1>
-<h3>Software Developer • Machine Learning • Research Intern</h3>
+<h3>Software Developer • Full-Stack Development • Generative AI</h3>
 
-<table>
+<table style="border:none;">
   <tr>
-    <td width="60%">
+    <td width="60%" style="border:none;">
       <h3>👩‍💻 About Me</h3>
       <ul>
-        <li>Full Stack Developer building scalable and user-focused applications</li>
-        <li>Working with <b>JavaScript, Python, React, Node.js, PostgreSQL, and MongoDB</b></li>
-        <li>Building mobile apps using <b>React Native (Expo)</b></li>
-        <li>Researching <b>Machine Learning & Data Acquisition Systems</b> for particle accelerators</li>
-        <li>Exploring <b>DevOps, Scientific Computing, and Emerging Technologies</b></li>
+        <li>Building scalable & user-focused applications.</li>
+        <li>Focused on GenAI, LLM applications, & AI-powered systems.</li>
+        <li>Experienced with LangChain & LLM application development.</li>
+        <li>Working with React, Next.js, TypeScript, Node.js, & PostgreSQL.</li>
+        <li>Building cross-platform mobile apps using React Native & Expo.</li>
+        <li>Research experience in ML & DAQ Systems through my IUAC internship.</li>
+        <li>Interested in system design, problem-solving, & emerging technologies.</li>
       </ul>
      </td>
-        <td width="40%">
-        <img src="./GIF for github (black background).gif" alt="Coding in progress" width="480" />
+     <td width="40%" style="border:none;">
+        <img src="./gif.gif" alt="Coding in progress" width="480" />
     </td>
   </tr>
 </table>
@@ -23,16 +25,17 @@
 
 ### 🧠 Currently Exploring
 
-* Machine Learning for Scientific Applications
-* Data Acquisition Systems & Accelerator Physics
-* Docker & DevOps Fundamentals
-* Advanced PostgreSQL & System Design
+* Generative AI & LLM Application Development
+* Retrieval-Augmented Generation (RAG) & AI Agents
+* LLM Orchestration with LangChain & LangGraph
+* Backend Architecture, System Design 
+* Cloud Infrastructure, Docker & DevOps
 
 ---
 
 ## 🎯 Current Goal
 
-Bridging software engineering and scientific research by developing machine learning solutions for particle accelerators and large-scale data acquisition systems.
+Building scalable applications and intelligent systems through software engineering, AI integration, and modern backend architectures.
 
 ---
 
